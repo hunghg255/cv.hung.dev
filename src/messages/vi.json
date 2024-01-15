@@ -23,17 +23,15 @@
     "agiletechvietnam": {
       "title": "Frontend Developer",
       "description": {
-        "1": "Crafted a comprehensive microservice migration plan to dismantle a monolithic system, boosting reliability.",
-        "2": "Optimized product search quality, accuracy, and response time by implementing Algolia as the search service.",
-        "3": "Developed a collaborative filtering recommendation system, boosting sales and enhancing product visibility."
+        "1": "Worked on developing and maintaining the projects of the company.",
+        "2": "Training new members of the company."
       }
     },
     "beau-agency": {
       "title": "Frontend Developer",
       "description": {
-        "1": "Created mission-critical React components for the new MVP site focused on accessibility and performance.",
-        "2": "Established Azure Cognitive Search indexes, enhancing the precision of text-based queries.",
-        "3": "Enhanced Microsoft MVP application performance by optimizing Entity Framework queries, minimizing database data retrieval and client-side data transmission for increased eficiency."
+        "1": "Worked on developing and maintaining the company's e-commerce, landing page website",
+        "2": "Developed and maintained the project on shopify platform."
       }
     }
   },
@@ -52,9 +50,9 @@
     }
   },
   "switcher": {
-    "label": "Ngôn ngữ",
-    "en": "Tiếng Anh",
-    "vi": "Tiếng Việt"
+    "label": "Change language",
+    "en": "English",
+    "vi": "Vietnamese"
   },
   "present": "Present",
   "seeMore": "See more",
