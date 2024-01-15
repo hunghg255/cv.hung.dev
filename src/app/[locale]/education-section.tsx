@@ -11,7 +11,7 @@ export const EducationSection = () => {
   return (
     <Section>
       <h2 className="text-xl font-bold">{t("sections.education")}</h2>
-      {resumeData.education.map((education) => {
+      {resumeData.education?.map((education: any) => {
         return (
           <div className="flex flex-row justify-between">
             <div className="flex flex-row items-center gap-x-1">

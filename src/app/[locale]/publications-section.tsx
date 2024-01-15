@@ -11,7 +11,7 @@ export const PublicationsSection = () => {
   return (
     <Section>
       <h2 className="text-xl font-bold">{t("sections.publications")}</h2>
-      {resumeData.publications.map((pub) => {
+      {resumeData.publications?.map((pub: any) => {
         return (
           <Card key={pub.publisher}>
             <CardHeader>

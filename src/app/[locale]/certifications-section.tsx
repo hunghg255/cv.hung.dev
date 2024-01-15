@@ -12,7 +12,7 @@ export const CertificationsSection = () => {
   return (
     <Section>
       <h2 className="text-xl font-bold">{t("sections.certifications")}</h2>
-      {resumeData.certifications.map((cert) => {
+      {resumeData.certifications?.map((cert: any) => {
         return (
           <div className="flex flex-row justify-between">
             <div className="flex flex-row items-center gap-x-1">
