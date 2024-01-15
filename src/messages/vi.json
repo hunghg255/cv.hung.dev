@@ -1,0 +1,62 @@
+{
+  "name": "Hung Hoang",
+  "sections": {
+    "about": "About",
+    "workExperience": "Work Experience",
+    "education": "Education",
+    "certifications": "Certifications",
+    "publications": "Publications",
+    "skills": "Skills",
+    "projects": "Projects"
+  },
+  "about": "Frontend Developer",
+  "summary": "Hi, my name is Hung, i'm 26 years old. I got a bachelor of Electronics Telecommunication Engineering at Ha Noi University of Science and Technology. Besides, i am really passionate about Javascript and Web Development. I am also an open-source enthusiast and maintainer. I love how collaboration and knowledge sharing happens through open-source and I am happy to see what I do could eventually feedback to the community and industry.",
+  "education": {
+    "bachelor": {
+      "school": "Ha Noi University of Science and Technology",
+      "degree": "Electronic Telecommunication Engineer"
+    }
+  },
+  "certifications": {},
+  "publications": {},
+  "work": {
+    "agiletechvietnam": {
+      "title": "Frontend Developer",
+      "description": {
+        "1": "Crafted a comprehensive microservice migration plan to dismantle a monolithic system, boosting reliability.",
+        "2": "Optimized product search quality, accuracy, and response time by implementing Algolia as the search service.",
+        "3": "Developed a collaborative filtering recommendation system, boosting sales and enhancing product visibility."
+      }
+    },
+    "beau-agency": {
+      "title": "Frontend Developer",
+      "description": {
+        "1": "Created mission-critical React components for the new MVP site focused on accessibility and performance.",
+        "2": "Established Azure Cognitive Search indexes, enhancing the precision of text-based queries.",
+        "3": "Enhanced Microsoft MVP application performance by optimizing Entity Framework queries, minimizing database data retrieval and client-side data transmission for increased eficiency."
+      }
+    }
+  },
+  "projects": {
+    "blog": {
+      "title": "jsantanders.dev",
+      "description": "My personal website and blog. Built with Next.js and MDX"
+    },
+    "learning": {
+      "title": "learning.jsantanders.dev",
+      "description": "Solutions to problems found in books I’m reading"
+    },
+    "ddd": {
+      "title": "modular-monolith-nestjs",
+      "description": "A Modular Monolith application with Domain-Driven Design approach. Using NestJS as a backend framework."
+    }
+  },
+  "switcher": {
+    "label": "Ngôn ngữ",
+    "en": "Tiếng Anh",
+    "vi": "Tiếng Việt"
+  },
+  "present": "Present",
+  "seeMore": "See more",
+  "seeLess": "See less"
+}

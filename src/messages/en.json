@@ -1,0 +1,60 @@
+{
+  "name": "Hung Hoang",
+  "sections": {
+    "about": "About",
+    "workExperience": "Work Experience",
+    "education": "Education",
+    "certifications": "Certifications",
+    "publications": "Publications",
+    "skills": "Skills",
+    "projects": "Projects"
+  },
+  "about": "Frontend Developer",
+  "summary": "Hi, my name is Hung, i'm 26 years old. I got a bachelor of Electronics Telecommunication Engineering at Ha Noi University of Science and Technology. Besides, i am really passionate about Javascript and Web Development. I am also an open-source enthusiast and maintainer. I love how collaboration and knowledge sharing happens through open-source and I am happy to see what I do could eventually feedback to the community and industry.",
+  "education": {
+    "bachelor": {
+      "school": "Ha Noi University of Science and Technology",
+      "degree": "Electronic Telecommunication Engineer"
+    }
+  },
+  "certifications": {},
+  "publications": {},
+  "work": {
+    "agiletechvietnam": {
+      "title": "Frontend Developer",
+      "description": {
+        "1": "Worked on developing and maintaining the projects of the company.",
+        "2": "Training new members of the company."
+      }
+    },
+    "beau-agency": {
+      "title": "Frontend Developer",
+      "description": {
+        "1": "Worked on developing and maintaining the company's e-commerce, landing page website",
+        "2": "Developed and maintained the project on shopify platform."
+      }
+    }
+  },
+  "projects": {
+    "blog": {
+      "title": "jsantanders.dev",
+      "description": "My personal website and blog. Built with Next.js and MDX"
+    },
+    "learning": {
+      "title": "learning.jsantanders.dev",
+      "description": "Solutions to problems found in books I’m reading"
+    },
+    "ddd": {
+      "title": "modular-monolith-nestjs",
+      "description": "A Modular Monolith application with Domain-Driven Design approach. Using NestJS as a backend framework."
+    }
+  },
+  "switcher": {
+    "label": "Change language",
+    "en": "English",
+    "vi": "Vietnamese"
+  },
+  "present": "Present",
+  "seeMore": "See more",
+  "seeLess": "See less"
+}
