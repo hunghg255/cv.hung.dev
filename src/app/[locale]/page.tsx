@@ -33,7 +33,7 @@ export default function Page({ params: { locale } }: Props) {
   const resumeData = useResumeData();
 
   return (
-    <main className="container relative mx-auto scroll-my-12 overflow-auto p-4 print:p-12 md:p-16">
+    <main className="container relative mx-auto scroll-my-12 overflow-auto p-[10px] print:p-12 md:p-16">
       <section className="mx-auto w-full max-w-2xl space-y-8 print:space-y-6">
         <div className="flex flex-row justify-end   gap-x-2 print:hidden">
           <LocaleSwitcher />

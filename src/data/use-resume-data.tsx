@@ -53,9 +53,9 @@ export const useResumeData = () => {
     publications: [],
     work: [
       {
-        company: "Agiletech Vietnam",
+        company: "Agiletech",
         link: "https://agiletech.vn/",
-        badges: ["Office Work"],
+        badges: ["Office"],
         title: t("work.agiletechvietnam.title"),
         logo: Agile,
         start: "Dec 2020",
@@ -66,9 +66,9 @@ export const useResumeData = () => {
         ],
       },
       {
-        company: "Beau Agency Vietnam",
+        company: "Beau",
         link: "https://beau.vn/vi",
-        badges: ["Office Work"],
+        badges: ["Office"],
         title: t("work.beau-agency.title"),
         logo: Beau,
         start: "Dec 2019",
