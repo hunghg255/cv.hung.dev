@@ -14,6 +14,7 @@ import { ProjectsSection } from "./projects-section";
 import { CertificationsSection } from "@/app/[locale]/certifications-section";
 import { PublicationsSection } from "@/app/[locale]/publications-section";
 import { GlobeIcon } from "@radix-ui/react-icons";
+import { ProjectsOOSSection } from "@/app/[locale]/projects-oos-section";
 
 type Props = {
   params: { locale: string };
@@ -80,10 +81,11 @@ export default function Page({ params: { locale } }: Props) {
           }}
         />
         <EducationSection />
-        <CertificationsSection />
-        <PublicationsSection />
+        {/* <CertificationsSection />
+        <PublicationsSection /> */}
         <SkillsSection />
         <ProjectsSection />
+        <ProjectsOOSSection />
       </section>
     </main>
   );
