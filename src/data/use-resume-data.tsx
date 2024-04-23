@@ -103,7 +103,7 @@ export const useResumeData = () => {
         description: "Management books and national newspapers",
         link: {
           label: "NXB",
-          href: "https://nxb-web.isys.vn/",
+          href: "https://sachdientu.vn/",
         },
       },
       {
